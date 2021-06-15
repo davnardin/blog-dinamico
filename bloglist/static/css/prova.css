@@ -1,0 +1,44 @@
+.cintro {
+    padding-top: 8rem;
+    padding-bottom: 6rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0px auto;
+    height: 245px;
+    color: white;
+    z-index: 1;
+}
+
+
+.boxheadnews {
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    -webkit-backdrop-filter: saturate(180%) blur(24px);
+    background: rgba(25, 26, 26, 0.82);
+    width: 65vw;
+    border-radius: 3px;
+    margin: auto;
+    padding: 30px;
+    margin-top: 260px;
+    }
+
+.di {
+    display: inline-grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    background-color: skyblue;
+}
+
+.a {
+    color: red;
+    margin: 60px;
+    font-size: 50px;
+}
+
+.dec {
+    text-decoration: none;
+}
+
